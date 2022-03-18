@@ -1,0 +1,8 @@
+C:\Users\marin\Documents\projets\.net\01-A\Sources\obj\Debug\netcoreapp3.1\PhotoSharingSample.csproj.AssemblyReference.cache
+C:\Users\marin\Documents\projets\.net\01-A\Sources\obj\Debug\netcoreapp3.1\PhotoSharingSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\Documents\projets\.net\01-A\Sources\obj\Debug\netcoreapp3.1\PhotoSharingSample.AssemblyInfoInputs.cache
+C:\Users\marin\Documents\projets\.net\01-A\Sources\obj\Debug\netcoreapp3.1\PhotoSharingSample.AssemblyInfo.cs
+C:\Users\marin\Documents\projets\.net\01-A\Sources\obj\Debug\netcoreapp3.1\PhotoSharingSample.csproj.CoreCompileInputs.cache
+C:\Users\marin\Documents\projets\.net\01-A\Sources\obj\Debug\netcoreapp3.1\PhotoSharingSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marin\Documents\projets\.net\01-A\Sources\obj\Debug\netcoreapp3.1\PhotoSharingSample.RazorAssemblyInfo.cache
+C:\Users\marin\Documents\projets\.net\01-A\Sources\obj\Debug\netcoreapp3.1\PhotoSharingSample.RazorAssemblyInfo.cs
